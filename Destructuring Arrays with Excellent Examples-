@@ -79,9 +79,7 @@ let [, , a, [b, , c]] = myFriends;
 console.log(a);                         // "ali"
 console.log(b);                       // "shady"
 console.log(c);                      // "mohammad"
-</script>
-
-<script>
+----------------------------------------------------------------------------------------------------------------------------------------
 let book = 'VIDEO';
 let video = 'BOOK';
 
@@ -89,10 +87,6 @@ let video = 'BOOK';
 
 console.log(book); // "BOOK"
 console.log(video); // "VIDEO"
-</script>
-
-
-
 ---------------------------------------------------------------
 Swapping variables without destructuring:
 ---------------------------------------------------------------
