@@ -1,7 +1,4 @@
 
-
-
-
 In JavaScript, destructuring (or destructuring assignment) is a technique that allows you to extract values from arrays, iterables like strings, or complex objects, making it easier to access data and reducing the amount of code you need to write. Some benefits of using destructuring in JavaScript include:
 
 Easier Data Access: It lets you pull out values directly without the need for repeated access to elements within arrays or objects.
@@ -121,4 +118,4 @@ let video = 'BOOK';
 console.log(book);                        // Output: BOOK
 console.log(video);                      // Output: VIDEO
 ----------------------------------------------------------
-y
+
